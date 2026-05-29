@@ -1,1 +1,1 @@
-# QuEEN-DTA-Binding-Affinity-Prediction-
+BindingDB Covid-19 dataset : https://www.bindingdb.org/rwd/bind/Covid19.jsp 
