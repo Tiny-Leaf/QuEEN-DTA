@@ -34,9 +34,8 @@ QuEEN-DTA stands for "Quantum-Extreme-Embedding-Network for Drug-Target Affinity
 ## Installation 
 
 ### Prerequisites
-[1] Ensure the system has Python **3.12.12** .
-
-[2] Code is written in accordance to assumption that multi-GPU setup is being used, as for our case we used NVIDIA T4 x 2. 
+[1] Ensure the system has Python **3.12.12**.
+[2] Code is written in accordance to the assumption that a multi-GPU setup is being used, as for our case we used NVIDIA T4 x 2.
 
 ### 1. Clone the Repository
 
