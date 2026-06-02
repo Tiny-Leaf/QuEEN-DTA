@@ -9,6 +9,28 @@ QuEEN-DTA stands for "Quantum-Extreme-Embedding-Network for Drug-Target Affinity
   <img src="docs/images/architecture.png" alt="QuEEN-DTA Architecture Diagram" width="700">
 </p>
 
+## Results
+<p align="center">
+  <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+    <tr>
+      <td style="text-align: center; font-weight: bold; padding: 10px;">
+        Mean Square Error (MSE) comparison: Davis dataset
+      </td>
+      <td style="text-align: center; font-weight: bold; padding: 10px;">
+        Mean Square Error (MSE) comparison: KIBA dataset
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; padding: 10px;">
+        <img src="docs/images/davis_mse_chart.png" alt="DAVIS Dataset MSE Comparison" width="100%">
+      </td>
+      <td style="width: 50%; padding: 10px;">
+        <img src="docs/images/kiba_mse_chart.png" alt="KIBA Dataset MSE Comparison" width="100%">
+      </td>
+    </tr>
+  </table>
+</p>
+
 ## Installation 
 
 ### Prerequisites
@@ -51,3 +73,4 @@ pip install -r requirements.txt
 python main.py
 
 ```
+
