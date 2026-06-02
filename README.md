@@ -4,6 +4,10 @@
 
 QuEEN-DTA stands for "Quantum-Extreme-Embedding-Network for Drug-Target Affinity". It uses a novel neural network architecture consisting of multi-head embeddings for input sequence, quantum  embeddings for physicochemical features to produce accurate results as compared to state-of-the-art (SoA) models.
 
+## Architecture 
+<p align="center">
+  <img src="docs/images/architecture.png" alt="QuEEN-DTA Architecture Diagram" width="700">
+</p>
 
 ## Installation 
 
