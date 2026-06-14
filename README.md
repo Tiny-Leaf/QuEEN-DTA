@@ -73,4 +73,4 @@ python main.py
 
 ```
 ### Note: 
-We suggest using test.ipynb
+We suggest using testnb.ipynb
